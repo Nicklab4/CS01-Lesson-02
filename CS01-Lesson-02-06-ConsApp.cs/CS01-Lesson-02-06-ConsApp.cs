@@ -33,6 +33,7 @@ namespace CS01_Lesson_02_06_ConsApp.cs
         {
             Console.WriteLine("Введите число: ");
             uint n = Convert.ToUInt32(Console.ReadLine());
+
             DateTime start = DateTime.Now;
             Console.WriteLine(Factorial(n));
             Console.WriteLine(DateTime.Now - start);
@@ -40,6 +41,7 @@ namespace CS01_Lesson_02_06_ConsApp.cs
             start = DateTime.Now;
             Console.WriteLine(FactorialRec(n));
             Console.WriteLine(DateTime.Now - start);
+
             Console.ReadLine();
         }
     }
