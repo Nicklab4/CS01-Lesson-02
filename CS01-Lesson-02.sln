@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-06-ConsApp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-07-ConsApp", "CS01-Lesson-02-07-ConsApp\CS01-Lesson-02-07-ConsApp.csproj", "{47248215-8E57-449D-9BC6-B76A166A6CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-HW01-ConsApp", "CS01-Lesson-02-HW01-ConsApp\CS01-Lesson-02-HW01-ConsApp.csproj", "{836EC306-614A-416C-977D-DEB4E93F2986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-08-ConsApp", "CS01-Lesson-02-08-ConsApp\CS01-Lesson-02-08-ConsApp.csproj", "{4467481C-0BB2-486B-97C8-020D613F1D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,6 +53,14 @@ Global
 		{47248215-8E57-449D-9BC6-B76A166A6CAD}.Debug|x86.Build.0 = Debug|x86
 		{47248215-8E57-449D-9BC6-B76A166A6CAD}.Release|x86.ActiveCfg = Release|x86
 		{47248215-8E57-449D-9BC6-B76A166A6CAD}.Release|x86.Build.0 = Release|x86
+		{836EC306-614A-416C-977D-DEB4E93F2986}.Debug|x86.ActiveCfg = Debug|x86
+		{836EC306-614A-416C-977D-DEB4E93F2986}.Debug|x86.Build.0 = Debug|x86
+		{836EC306-614A-416C-977D-DEB4E93F2986}.Release|x86.ActiveCfg = Release|x86
+		{836EC306-614A-416C-977D-DEB4E93F2986}.Release|x86.Build.0 = Release|x86
+		{4467481C-0BB2-486B-97C8-020D613F1D46}.Debug|x86.ActiveCfg = Debug|x86
+		{4467481C-0BB2-486B-97C8-020D613F1D46}.Debug|x86.Build.0 = Debug|x86
+		{4467481C-0BB2-486B-97C8-020D613F1D46}.Release|x86.ActiveCfg = Release|x86
+		{4467481C-0BB2-486B-97C8-020D613F1D46}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
