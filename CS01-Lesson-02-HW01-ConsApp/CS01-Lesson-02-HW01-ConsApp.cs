@@ -11,6 +11,21 @@ namespace CS01_Lesson_02_HW01_ConsApp
     {
         static void Main(string[] args)
         {
+            int a, b, c, min;
+            Console.WriteLine("ВВедите два целых числа.");
+            Console.Write("Первое число: ");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Второе число: ");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Третье число: ");
+            c = Convert.ToInt32(Console.ReadLine());
+
+            min = a;
+            if (b < a && b <= c) min = b;
+            if (c < b && c < a) min = c;
+
+            Console.WriteLine("Наименьшее число {0}", min);
+            Console.ReadLine();
         }
     }
 }
