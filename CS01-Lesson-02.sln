@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-HW03-ConsApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-HW04-ConsApp", "CS01-Lesson-02-HW04-ConsApp\CS01-Lesson-02-HW04-ConsApp.csproj", "{EA4355E8-4C26-439A-BDE4-42C9C0E65CB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-02-HW05-ConsApp", "CS01-Lesson-02-HW05-ConsApp\CS01-Lesson-02-HW05-ConsApp.csproj", "{63F7489B-86FF-44C8-A31C-FC86B0A7D973}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -79,6 +81,10 @@ Global
 		{EA4355E8-4C26-439A-BDE4-42C9C0E65CB7}.Debug|x86.Build.0 = Debug|x86
 		{EA4355E8-4C26-439A-BDE4-42C9C0E65CB7}.Release|x86.ActiveCfg = Release|x86
 		{EA4355E8-4C26-439A-BDE4-42C9C0E65CB7}.Release|x86.Build.0 = Release|x86
+		{63F7489B-86FF-44C8-A31C-FC86B0A7D973}.Debug|x86.ActiveCfg = Debug|x86
+		{63F7489B-86FF-44C8-A31C-FC86B0A7D973}.Debug|x86.Build.0 = Debug|x86
+		{63F7489B-86FF-44C8-A31C-FC86B0A7D973}.Release|x86.ActiveCfg = Release|x86
+		{63F7489B-86FF-44C8-A31C-FC86B0A7D973}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
